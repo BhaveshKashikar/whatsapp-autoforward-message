@@ -61,26 +61,4 @@ while True:
                 # message= groupTexts[item].find_element_by_xpath('')
                 # print(message.text)
 
-#
-# while True:
-#     
-   
-        
-    
 
-   
-
-
-
-
-
-#todaysMessages= driver.find_element_by_xpath("//div[contains(@role,'region')]/div[contains(@class, 'focusable-list-item') and not(contains(@class, 'message-out')  or (@class='message-in'))]/following-sibling::div")
-# driver.findElements(by.xpath("//*[text()='Today']/following::div[class='message-in']//span[class='selectable-text copyable-text']/span"))[1];
-
-#print(unReadMessages.get_attribute('innerHTML'))
-
-
-
-# sendButton = driver.find_element_by_css_selector('span[data-icon="send"]')
-
-# sendButton.click()
