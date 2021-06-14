@@ -1,3 +1,3 @@
 Echo "Welcome to whatsapp Hack"
 
-WhatsAppAutoForward.exe --source "Bullish stock" --sourceIsGroup True --target "Hum Panch"
+WhatsAppAutoForward.exe --source "{{Source Group/Contact name}}" --sourceIsGroup True --target "{{Target Group/Contact Name}}"
